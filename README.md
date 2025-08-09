@@ -21,7 +21,10 @@ This repository showcases my projects in *data analysis, **SQL, and **software d
 **Teknolojiler:** Python, scikit-learn  
 - Iris veri seti üzerinde sınıflandırma modeli geliştirme  
 - Model eğitme ve değerlendirme  
-- Doğruluk analizi ve sonuç görselleştirmeleri  
+- Doğruluk analizi ve sonuç görselleştirmeleri
+
+4️⃣ [Deprem — Twitter Duygu Analizi](./04-deprem-twitter-sentiment)
+
 
 ---
 
