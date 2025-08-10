@@ -24,7 +24,10 @@ This repository showcases my projects in *data analysis, **SQL, and **software d
 - Doğruluk analizi ve sonuç görselleştirmeleri
 
 4️⃣ [Deprem — Twitter Duygu Analizi](./04-deprem-twitter-sentiment)
-
+Teknolojiler: Python, Tweepy, Pandas, Matplotlib, NLTK/TextBlob  
+- Twitter API üzerinden deprem ile ilgili tweet’leri toplama  
+- Duygu analizi (pozitif / negatif / nötr)  
+- Kelime bulutu (word cloud) ve zaman serisi görselleştirmeleri
 
 ---
 
